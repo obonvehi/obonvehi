@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oriac Bonvehí Villa
 
 <!--
 **obonvehi/obonvehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" width="100" src="https://i.postimg.cc/Pfm6hx2Q/avatar.png"> <samp> Hi there 👋<br>
+  🌁 based in Barcelona <br>
+  <br><br><br>
+<samp><img src="https://freesvg.org/img/linkedin.png" width="16"> find me on LinkedIn [@oriacbv](https://www.linkedin.com/in/oriacbv/) 💭
